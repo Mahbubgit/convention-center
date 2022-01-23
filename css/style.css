@@ -1,0 +1,31 @@
+.text-custom{
+    font-weight: bold;
+    font-size: 22px;
+    color: #3E3E3E;
+}
+.slider{
+    border-style: none;
+    vertical-align: middle;
+    height: 520px;
+}
+h2{
+    font-size: 48px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+}
+p{
+    text-align: center;
+    color: yellow;
+    font-size: 20px;
+    font-weight: 300;
+}
+.link-btn{
+    text-decoration: none;
+    background-color: white;
+    color: #3F87F5;
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-size: 16px;
+}

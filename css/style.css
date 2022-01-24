@@ -84,3 +84,7 @@
     border: white;
     border-radius: 10px;
 }
+.img-size {
+    height: 300px;
+    width: 400px;
+}

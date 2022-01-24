@@ -1,3 +1,4 @@
+
 .text-custom{
     font-weight: bold;
     font-size: 22px;
@@ -8,17 +9,32 @@
     vertical-align: middle;
     height: 520px;
 }
-h2{
+.slider-header{
     font-size: 48px;
     color: white;
     font-weight: 700;
     text-align: center;
 }
-p{
+.price{
+    font-size: 36px;
+    font-weight: 700;
+    color: #231D4F;
+}
+.title{
+    font-size: 28px;
+    font-weight: 700;
+    color: #231D4F;
+}
+.ptext{
+    color: #848199;
+    font-size: 15px;
+}
+.slider-text{
     text-align: center;
     color: yellow;
     font-size: 20px;
     font-weight: 300;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .link-btn{
     text-decoration: none;
@@ -27,5 +43,31 @@ p{
     font-weight: 700;
     padding: 10px 40px;
     border-radius: 5px;
-    font-size: 16px;
+    font-size: 20px;
+}
+.card-btn{
+    text-decoration: none;
+    background-color: #F496D1;;
+    color: #3F87F5;
+    font-weight: 700;
+    padding: 13px 60px;
+    border-radius: 24px;
+    font-size: 20px;
+}
+.card-common{
+    width: 232px;
+    height: 387px;
+    border: none;
+}
+
+.card-wedding-plus{
+    width: 292px;
+    height: 480px;
+    background: #3F87F5;
+    box-shadow: 0px 42px 34px rgba(63, 135, 245, 0.25);
+    border-radius: 26px;
+    color: white;
+}
+.ct-color{
+    color: white;
 }
